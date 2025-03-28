@@ -32,5 +32,4 @@ npm start
 - Real-time notifications.
 - Multi-language support.
 
-Special thanks to **Octanet Tech Services** and **Sachindananda Prusty** for their guidance.
 
